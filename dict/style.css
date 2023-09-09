@@ -638,6 +638,11 @@ video {
   margin-right: 2rem;
 }
 
+.mx-11 {
+  margin-left: 2.75rem;
+  margin-right: 2.75rem;
+}
+
 .ml-12 {
   margin-left: 3rem;
 }
